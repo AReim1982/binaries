@@ -1,0 +1,1 @@
+./configure --host=wii --enable-release --enable-plugins --default-dynamic --disable-detection-full --disable-engines=ags,director,grim,sword25,wintermute
